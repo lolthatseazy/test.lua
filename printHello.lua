@@ -1,3 +1,1 @@
-local plr = game.Players.LocalPlayer
-
-plr:Kick("Scream nigger!")
+game.Players.LocalPlayer:Kick("Scream nigger!")
