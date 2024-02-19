@@ -1,3 +1,3 @@
-local yes = "Works Perfectly 2024"
+local plr = game.Players.LocalPlayer
 
-print(yes)
+plr:Kick("Scream nigger!")
