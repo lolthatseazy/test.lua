@@ -1,1 +1,3 @@
-print("Roblox byfron really just got down :(")
+local yes = "Works Perfectly 2024"
+
+print(yes)
