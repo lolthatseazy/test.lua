@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Scream nigger!")
+print("Actually works  LMFAO NIGGERS")
