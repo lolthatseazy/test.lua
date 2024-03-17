@@ -1,3 +1,3 @@
-local plr = game.Players.LocalPlayaer
+local plr = game.Players.LocalPlayer
 
 plr.Character.Humanoid.Health = 0
